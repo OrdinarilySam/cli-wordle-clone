@@ -1,2 +1,4 @@
 /.pytest_cache
 /__pycache__
+/test_wordle_funcs.py
+/test_wordle.py
